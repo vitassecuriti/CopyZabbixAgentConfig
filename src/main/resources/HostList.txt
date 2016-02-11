@@ -1,0 +1,2 @@
+HOST;USER;PASS;PORT;TargetDir;TimeOut
+nba95;zabbix;zabbix;22;/etc/zabbix;600000;SFTP
